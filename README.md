@@ -1,13 +1,13 @@
-# 🤖 Discord Bot
+# 🤖 Discord Bot Magyar
 
-![GitHub repo size](https://img.shields.io/github/repo-size/FELHASZNALONEV/REPO)
-![GitHub stars](https://img.shields.io/github/stars/FELHASZNALONEV/REPO?style=social)
-![GitHub forks](https://img.shields.io/github/forks/FELHASZNALONEV/REPO?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/FELHASZNALONEV/REPO?style=social)
-![GitHub downloads](https://img.shields.io/github/downloads/FELHASZNALONEV/REPO/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/RedfluffyMoonSzia/discord-bot-magyar)
+![GitHub stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyar?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyar?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyar?style=social)
+![GitHub downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyar/total)
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-18%2B-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/github/license/FELHASZNALONEV/REPO)
+![License](https://img.shields.io/github/license/RedfluffyMoonSzia/discord-bot-magyar)
 
 > Egy teljes funkcionalitású Discord bot **discord.js v14** alapon, **55 slash paranccsal**!
 
@@ -15,15 +15,15 @@
 
 ## 👀 Statisztikák
 
-![GitHub repo views](https://komarev.com/ghpvc/?username=FELHASZNALONEV&label=Repo+Views&color=5865F2&style=flat)
+![GitHub repo views](https://komarev.com/ghpvc/?username=RedfluffyMoonSzia&label=Repo+Views&color=5865F2&style=flat)
 
 | 📊 Statisztika | 🔢 Adat |
 |----------------|---------|
-| ⭐ Csillagok | ![Stars](https://img.shields.io/github/stars/FELHASZNALONEV/REPO) |
-| 🍴 Forkok | ![Forks](https://img.shields.io/github/forks/FELHASZNALONEV/REPO) |
-| 👁️ Megtekintések | ![Watchers](https://img.shields.io/github/watchers/FELHASZNALONEV/REPO) |
-| 📥 Letöltések | ![Downloads](https://img.shields.io/github/downloads/FELHASZNALONEV/REPO/total) |
-| 🐛 Nyitott hibák | ![Issues](https://img.shields.io/github/issues/FELHASZNALONEV/REPO) |
+| ⭐ Csillagok | ![Stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyar) |
+| 🍴 Forkok | ![Forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyar) |
+| 👁️ Megtekintések | ![Watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyar) |
+| 📥 Letöltések | ![Downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyar/total) |
+| 🐛 Nyitott hibák | ![Issues](https://img.shields.io/github/issues/RedfluffyMoonSzia/discord-bot-magyar) |
 
 ---
 
@@ -148,8 +148,8 @@
 ### 1️⃣ Repository klónozása
 
 ```bash
-git clone https://github.com/FELHASZNALONEV/REPO.git
-cd REPO
+git clone https://github.com/RedfluffyMoonSzia/discord-bot-magyar.git
+cd discord-bot-magyar
 ```
 
 ### 2️⃣ Csomagok telepítése
@@ -183,9 +183,9 @@ node index.js
 
 ## 🌐 Integrációk
 
-### 
-<a href="https://replit.com/github/FELHASZNALONEV/REPO">
-  <img src="https://replit.com/badge/github/FELHASZNALONEV/REPO" alt="Run on Replit" height="40"/>
+### 🟣 Replit
+<a href="https://replit.com/github/RedfluffyMoonSzia/discord-bot-magyar">
+  <img src="https://replit.com/badge/github/RedfluffyMoonSzia/discord-bot-magyar" alt="Run on Replit" height="40"/>
 </a>
 
 > 1. Kattints a gombra
@@ -217,8 +217,8 @@ CMD ["node", "index.js"]
 ```
 
 ```bash
-docker build -t discord-bot .
-docker run -d --env-file .env discord-bot
+docker build -t discord-bot-magyar .
+docker run -d --env-file .env discord-bot-magyar
 ```
 
 ---
@@ -226,7 +226,7 @@ docker run -d --env-file .env discord-bot
 ## 📁 Projekt struktúra
 
 ```
-discord-bot/
+discord-bot-magyar/
 ├── 📄 index.js
 ├── 📄 deploy-commands.js
 ├── 📄 package.json
@@ -234,65 +234,10 @@ discord-bot/
 ├── 📄 README.md
 └── 📁 commands/
     ├── 📁 general/
-    │   ├── hello.js
-    │   ├── ping.js
-    │   ├── help.js
-    │   ├── invite.js
-    │   ├── say.js
-    │   ├── afk.js
-    │   ├── avatar.js
-    │   ├── banner.js
-    │   ├── serverinfo.js
-    │   └── userinfo.js
     ├── 📁 moderation/
-    │   ├── ban.js
-    │   ├── unban.js
-    │   ├── kick.js
-    │   ├── mute.js
-    │   ├── unmute.js
-    │   ├── warn.js
-    │   ├── warnings.js
-    │   ├── clearwarnings.js
-    │   ├── purge.js
-    │   └── slowmode.js
     ├── 📁 fun/
-    │   ├── meme.js
-    │   ├── joke.js
-    │   ├── 8ball.js
-    │   ├── roll.js
-    │   ├── coinflip.js
-    │   ├── rps.js
-    │   ├── trivia.js
-    │   ├── roast.js
-    │   ├── compliment.js
-    │   ├── ship.js
-    │   ├── would-you-rather.js
-    │   ├── truth.js
-    │   ├── dare.js
-    │   ├── random.js
-    │   └── quote.js
     ├── 📁 utility/
-    │   ├── poll.js
-    │   ├── remind.js
-    │   ├── timer.js
-    │   ├── translate.js
-    │   ├── weather.js
-    │   ├── calculator.js
-    │   ├── qrcode.js
-    │   ├── shorten.js
-    │   ├── color.js
-    │   ├── timestamp.js
-    │   ├── base64.js
-    │   └── password.js
     └── 📁 info/
-        ├── botinfo.js
-        ├── roleinfo.js
-        ├── channelinfo.js
-        ├── emojiinfo.js
-        ├── membercount.js
-        ├── boostinfo.js
-        ├── uptime.js
-        └── stats.js
 ```
 
 ---
