@@ -1,13 +1,13 @@
 # 🤖 Discord Bot Magyar
 
-![GitHub repo size](https://img.shields.io/github/repo-size/RedfluffyMoonSzia/discord-bot-magyar)
-![GitHub stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyar?style=social)
-![GitHub forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyar?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyar?style=social)
-![GitHub downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyar/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/RedfluffyMoonSzia/discord-bot-magyarul)
+![GitHub stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyarul?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyarul?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyarul?style=social)
+![GitHub downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyarul/total)
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-18%2B-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/github/license/RedfluffyMoonSzia/discord-bot-magyar)
+![License](https://img.shields.io/github/license/RedfluffyMoonSzia/discord-bot-magyarul)
 
 > Egy teljes funkcionalitású Discord bot **discord.js v14** alapon, **55 slash paranccsal**!
 
@@ -19,11 +19,11 @@
 
 | 📊 Statisztika | 🔢 Adat |
 |----------------|---------|
-| ⭐ Csillagok | ![Stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyar) |
-| 🍴 Forkok | ![Forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyar) |
-| 👁️ Megtekintések | ![Watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyar) |
-| 📥 Letöltések | ![Downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyar/total) |
-| 🐛 Nyitott hibák | ![Issues](https://img.shields.io/github/issues/RedfluffyMoonSzia/discord-bot-magyar) |
+| ⭐ Csillagok | ![Stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyarul) |
+| 🍴 Forkok | ![Forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyarul) |
+| 👁️ Megtekintések | ![Watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyarul) |
+| 📥 Letöltések | ![Downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyarul/total) |
+| 🐛 Nyitott hibák | ![Issues](https://img.shields.io/github/issues/RedfluffyMoonSzia/discord-bot-magyarul) |
 
 ---
 
@@ -148,7 +148,7 @@
 ### 1️⃣ Repository klónozása
 
 ```bash
-git clone https://github.com/RedfluffyMoonSzia/discord-bot-magyar.git
+git clone https://github.com/RedfluffyMoonSzia/discord-bot-magyarul.git
 cd discord-bot-magyar
 ```
 
@@ -184,8 +184,8 @@ node index.js
 ## 🌐 Integrációk
 
 ### 🟣 Replit
-<a href="https://replit.com/github/RedfluffyMoonSzia/discord-bot-magyar">
-  <img src="https://replit.com/badge/github/RedfluffyMoonSzia/discord-bot-magyar" alt="Run on Replit" height="40"/>
+<a href="https://replit.com/github/RedfluffyMoonSzia/discord-bot-magyarul">
+  <img src="https://replit.com/badge/github/RedfluffyMoonSzia/discord-bot-magyarul" alt="Run on Replit" height="40"/>
 </a>
 
 > 1. Kattints a gombra
