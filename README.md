@@ -1,13 +1,13 @@
 # 🤖 Discord Bot Magyar
 
-![GitHub repo size](https://img.shields.io/github/repo-size/RedfluffyMoonSzia/discord-bot-magyarul)
-![GitHub stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyarul?style=social)
-![GitHub forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyarul?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyarul?style=social)
-![GitHub downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyarul/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/RedfluffyMoon/discord-bot-v14-magyarul)
+![GitHub stars](https://img.shields.io/github/stars/RedfluffyMoon/discord-bot-v14-magyarul?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RedfluffyMoon/discord-bot-v14-magyarul?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/RedfluffyMoon/discord-bot-v14-magyarul?style=social)
+![GitHub downloads](https://img.shields.io/github/downloads/RedfluffyMoon/discord-bot-v14-magyarul/total)
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-18%2B-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/github/license/RedfluffyMoonSzia/discord-bot-magyarul)
+![License](https://img.shields.io/github/license/RedfluffyMoon/discord-bot-v14-magyarul)
 
 > Egy teljes funkcionalitású Discord bot **discord.js v14** alapon, **55 slash paranccsal**!
 
@@ -15,15 +15,15 @@
 
 ## 👀 Statisztikák
 
-![GitHub repo views](https://komarev.com/ghpvc/?username=RedfluffyMoonSzia&label=Repo+Views&color=5865F2&style=flat)
+![GitHub repo views](https://komarev.com/ghpvc/?username=RedfluffyMoon&label=Repo+Views&color=5865F2&style=flat)
 
 | 📊 Statisztika | 🔢 Adat |
 |----------------|---------|
-| ⭐ Csillagok | ![Stars](https://img.shields.io/github/stars/RedfluffyMoonSzia/discord-bot-magyarul) |
-| 🍴 Forkok | ![Forks](https://img.shields.io/github/forks/RedfluffyMoonSzia/discord-bot-magyarul) |
-| 👁️ Megtekintések | ![Watchers](https://img.shields.io/github/watchers/RedfluffyMoonSzia/discord-bot-magyarul) |
-| 📥 Letöltések | ![Downloads](https://img.shields.io/github/downloads/RedfluffyMoonSzia/discord-bot-magyarul/total) |
-| 🐛 Nyitott hibák | ![Issues](https://img.shields.io/github/issues/RedfluffyMoonSzia/discord-bot-magyarul) |
+| ⭐ Csillagok | ![Stars](https://img.shields.io/github/stars/RedfluffyMoon/discord-bot-v14-magyarul) |
+| 🍴 Forkok | ![Forks](https://img.shields.io/github/forks/RedfluffyMoon/discord-bot-v14-magyarul) |
+| 👁️ Megtekintések | ![Watchers](https://img.shields.io/github/watchers/RedfluffyMoon/discord-bot-v14-magyarul) |
+| 📥 Letöltések | ![Downloads](https://img.shields.io/github/downloads/RedfluffyMoon/discord-bot-v14-magyarul/total) |
+| 🐛 Nyitott hibák | ![Issues](https://img.shields.io/github/issues/RedfluffyMoon/discord-bot-v14-magyarul) |
 
 ---
 
@@ -148,8 +148,8 @@
 ### 1️⃣ Repository klónozása
 
 ```bash
-git clone https://github.com/RedfluffyMoonSzia/discord-bot-magyarul.git
-cd discord-bot-magyar
+git clone https://github.com/RedfluffyMoon/discord-bot-v14-magyarul.git
+cd discord-bot-v14-magyarul
 ```
 
 ### 2️⃣ Csomagok telepítése
@@ -184,8 +184,8 @@ node index.js
 ## 🌐 Integrációk
 
 ### 🟣 Replit
-<a href="https://replit.com/github/RedfluffyMoonSzia/discord-bot-magyarul">
-  <img src="https://replit.com/badge/github/RedfluffyMoonSzia/discord-bot-magyarul" alt="Run on Replit" height="40"/>
+<a href="https://replit.com/github/RedfluffyMoon/discord-bot-v14-magyarul">
+  <img src="https://replit.com/badge/github/RedfluffyMoon/discord-bot-v14-magyarul" alt="Run on Replit" height="40"/>
 </a>
 
 > 1. Kattints a gombra
@@ -217,8 +217,8 @@ CMD ["node", "index.js"]
 ```
 
 ```bash
-docker build -t discord-bot-magyar .
-docker run -d --env-file .env discord-bot-magyar
+docker build -t discord-bot-v14-magyarul .
+docker run -d --env-file .env discord-bot-v14-magyarul
 ```
 
 ---
@@ -226,7 +226,7 @@ docker run -d --env-file .env discord-bot-magyar
 ## 📁 Projekt struktúra
 
 ```
-discord-bot-magyar/
+discord-bot-v14-magyarul/
 ├── 📄 index.js
 ├── 📄 deploy-commands.js
 ├── 📄 package.json
